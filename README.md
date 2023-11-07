@@ -2,6 +2,6 @@
 
 - 📍 I'm from Sydney
 
-- 🌱 I’m currently doing a course in coding ...
+- 🌱 I have completed a Bootcamp course for full stack developers from the University of Sydney in october 2023...
 
 - 🕸️ I am passionate about building websites
