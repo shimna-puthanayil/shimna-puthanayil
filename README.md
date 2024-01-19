@@ -25,8 +25,9 @@
     <img src="https://github.com/shimna-puthanayil/shimna-puthanayil/assets/132061805/ff40d466-33b0-418d-a7e2-b0a3e3c7ad67" title="jquery" alt="jqueryIcon" width="10%" height="6%"/>&nbsp;
     <img src="https://github.com/shimna-puthanayil/shimna-puthanayil/assets/132061805/4714c3e9-751c-4fa8-89bc-4b15ae486411" title="jquery-ui" alt="jquery-ui"  width="4%" height="4%"/>&nbsp;
     <img src="https://github.com/shimna-puthanayil/shimna-puthanayil/assets/132061805/891d15e1-4f46-4090-8f59-2b0024463cb2" title="Bootstrap" alt="Bootstrap" width="6%" height="6%" />&nbsp;
-    <img src="https://github.com/shimna-puthanayil/shimna-puthanayil/assets/132061805/36fdc297-83f6-44c6-8d83-686dcaac076d" title="css" alt="cssIcon" width="6%" height="6%" style="object-fit:contain;"/>&nbsp;
-    <img src="https://github.com/shimna-puthanayil/shimna-puthanayil/assets/132061805/6a7dddd7-fcbb-495f-a0bf-2fb3e66667e1" title="html" alt="htmlIcon" width="6%" height="6%"/>&nbsp;
+    <img src="https://github.com/shimna-puthanayil/shimna-puthanayil/assets/132061805/c48cb70b-4546-4a1c-8d12-338820bcae1e" title="html" alt="muiIcon" width="4%" height="4%"/>&nbsp;
+   
+
 </div>
 
 ---
