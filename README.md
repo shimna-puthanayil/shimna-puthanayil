@@ -2,17 +2,16 @@
 
 ### Here is a little about me
 
-- 📍 I'm from Sydney
-
-- 🌱 I have completed a Bootcamp course for full stack developers from the University of Sydney in october 2023...
-
-- 🕸️ I am passionate about building websites
+- I'm from Sydney
+- I am a **Software Engineer** specializing in **Quality Engineering**
+- I have completed a Bootcamp course for full stack developers from the University of Sydney in october 2023...
 - 📸 I am a passionate photographer 
 
 ---
 
 ### Technologies and Tools 
 <div>
+     <img alt="pl1" src="https://github.com/user-attachments/assets/06066a45-c5e6-4f5e-a7f4-86f266b11030" title="playwright" alt="playwrightIcon" width="4%" height="4%" />&nbsp;
      <img src="https://github.com/shimna-puthanayil/shimna-puthanayil/assets/132061805/fe27507a-38e5-4297-a246-96c966cbc2e9" title="mongodb" alt="mongodbIcon"  width="10%" height="6%"/>&nbsp;
    <img src="https://github.com/shimna-puthanayil/shimna-puthanayil/assets/132061805/994a1c1a-5b59-4e9a-a90d-1437a7fe4ebc" title="express" alt="expressIcon"  width="6%" height="6%"/>&nbsp;
   <img src="https://github.com/shimna-puthanayil/shimna-puthanayil/assets/132061805/c0b187ee-3937-4ab4-b00c-62b9cd9e9416" title="React" alt="ReactIcon"  width="4%" height="4%"/>&nbsp;
@@ -32,5 +31,4 @@
 
 ---
 
-#### Please reach out to me if you would like to collaborate ! 
 #### Thank you for visiting.
